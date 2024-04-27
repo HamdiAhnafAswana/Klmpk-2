@@ -1,6 +1,7 @@
 https://pendidikan-ti.ft.unesa.ac.id/
 
-- Kelas PTI D 2023 
+- Kelas PTI D 2023
+- Kelompok 2 PBO
 - Anggota:
 - Sathiul Inayah (134)
 - Novi Fitria Wulandari (137)
