@@ -9,7 +9,8 @@ https://pendidikan-ti.ft.unesa.ac.id/
 - Hamdi Ahnaf Aswana (148)
 
 
-- Deskripsi
+                                                            Deskripsi
+-  Dengan Slogan "Tingkatkan Pengalaman Kecantikan Anda, dengan Satu Transaksi Sekaligus"
 - SKINNALS BEAUTY adalah aplikasi kasir pada toko skincare yang memiliki fungsi untuk menghitung transaksi secara otomatis, menyimpan data laporan rekapan harian transaksi pembayaran agar perhitungan pada saat melakukan pembayaran dapat dilakukan dengan cepat dan tepat.
 Adapun Fitur-Fitur yang terdapat pada Aplikasi, yaitu:
 - Pemilihan Barang
